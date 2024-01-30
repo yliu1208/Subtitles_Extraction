@@ -1,9 +1,7 @@
-
-
-sourceFile = open ("srt.txt", "r", encoding='UTF-8')
+source = open ("subtitles.srt", "r", encoding='UTF-8')
 subtitles = open("subtitles.txt", "w+", encoding='UTF-8')
 
-lines = sourceFile.readlines()
+lines = source.readlines()
 count = 0
 
 for line in lines:
