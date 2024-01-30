@@ -18,3 +18,24 @@ for line in lines:
         continue
 
 subtitles.close()
+intermediate = open ("subtitles.txt", "r", encoding='UTF-8')
+formattedSubtitles = open("formattedSubtitles.txt", "w+", encoding='UTF-8')
+sentence = ''
+
+newlines = intermediate.readlines()
+for newline in newlines:
+    if newline.startswith('-') or newline[0].isupper():
+        if (len(sentence) != 0):
+            formattedSubtitles.write(sentence)
+        # write a new line
+        formattedSubtitles.write('\n\n')
+        sentence = ''
+        sentence += newline.strip()
+    elif newline[0].islower():
+        sentence += ' '
+        sentence += newline.strip()
+    else:
+        continue
+
+intermediate.close()
+formattedSubtitles.close()
