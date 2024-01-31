@@ -20,7 +20,7 @@ for line in lines:
         continue
 
 subtitles.close()
-intermediate = open ('output/' + str(movie) + '.txt', 'r', encoding='UTF-8')
+intermediate = open('output/' + str(movie) + '.txt', 'r', encoding='UTF-8')
 formattedSubtitles = open('output/' + 'formatted ' + str(movie) + '.txt', 'w+', encoding='UTF-8')
 formattedSubtitles.write('Movie: ' + str(movie))
 sentence = ''
