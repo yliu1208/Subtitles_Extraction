@@ -5,14 +5,14 @@ from fpdf import FPDF
 pdf = FPDF()
 movie = sys.argv[1]
 
-source = open ((str(movie) + '.srt'), 'r', encoding='UTF-8')
-subtitles = open((str(movie) + '.txt'), 'w+', encoding='UTF-8')
+source = open ('srt/' + str(movie) + '.srt', 'r', encoding='UTF-8', errors='ignore')
+subtitles = open('output/' + str(movie) + '.txt', 'w+', encoding='UTF-8')
 
 lines = source.readlines()
 for line in lines:
     if line.strip().isdigit():
         subtitles.write('\n')
-    elif line.startswith('-'):
+    elif line.startswith('-') or line.startswith('.') or line.startswith('<'):
         subtitles.write(line)
     elif line[0].isalpha():
         subtitles.write(line)
@@ -20,13 +20,14 @@ for line in lines:
         continue
 
 subtitles.close()
-intermediate = open ((str(movie) + '.txt'), 'r', encoding='UTF-8')
-formattedSubtitles = open('formatted ' + str(movie) + '.txt', 'w+', encoding='UTF-8')
+intermediate = open ('output/' + str(movie) + '.txt', 'r', encoding='UTF-8')
+formattedSubtitles = open('output/' + 'formatted ' + str(movie) + '.txt', 'w+', encoding='UTF-8')
+formattedSubtitles.write('Movie: ' + str(movie))
 sentence = ''
 
 newlines = intermediate.readlines()
 for newline in newlines:
-    if newline.startswith('-') or newline[0].isupper():
+    if newline.startswith('-') or newline.startswith('.') or newline.startswith('<') or newline[0].isupper():
         if (len(sentence) != 0):
             formattedSubtitles.write(sentence)
         # write a new line
@@ -43,13 +44,13 @@ intermediate.close()
 formattedSubtitles.close()
 
 pdf.add_page()
-pdf.add_font('BookAntiqua', '', 'BookAntiquaFont.ttf', uni=True)
+pdf.add_font('BookAntiqua', '', 'fonts/BookAntiquaFont.ttf', uni=True)
 pdf.set_font('BookAntiqua', '', 12)
 pdf.set_margins(10, 10, 10)
 
-f = open('formatted ' + str(movie) + '.txt', 'r', encoding='UTF-8')
+f = open('output/' + 'formatted ' + str(movie) + '.txt', 'r', encoding='UTF-8')
 for x in f:
     pdf.multi_cell(200, 6, txt = x, align = 'L')
 
-pdf.output(str(movie) + '.pdf')
-os.remove(str(movie) + '.txt')
+pdf.output('output/' + str(movie) + '.pdf')
+os.remove('output/' + str(movie) + '.txt')

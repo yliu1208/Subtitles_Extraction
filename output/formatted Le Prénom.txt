@@ -1,4 +1,4 @@
-
+Movie: Le Prénom
 
 Downloaded from
 
@@ -163,6 +163,8 @@ Auteur vedette chez Jalons Critiques,
 Pierre aime se rendre chez Vrin pour voir son public.
 
 Et comme à chaque rentrée littéraire, il se demande s'il battra son légendaire record de 527 exemplaires vendus de <i>Pyrrhonisme et Montaignisme,</i> dont le succès immense l'avait envoyé en conférence jusqu'à Moscou.
+
+<i>Il parle russe.</i>
 
 - Tel son maître à penser, Montaigne,
 
@@ -1921,6 +1923,8 @@ Enfin, Pierre ?
 - D'accord.
 
 - Mon amour, on meurt de faim.
+
+<i>*- Vous m'avez attendue ?
 
 - Évidemment qu'on t'a attendue.</i>
 

@@ -1,4 +1,4 @@
-
+Movie: Anatomie d'une chute
 
 Elle tousse.
 
@@ -25,6 +25,8 @@ Votre description de l'accident du fils...
 Pour vous, on ne peut écrire que sur du vécu ?
 
 L'eau coule.
+
+...
 
 -Saute !
 
@@ -124,6 +126,8 @@ C'est une des choses que j'aime le plus.
 
 -Vous vous y connaissez en drogue ?
 
+<i>...</i>
+
 C'est la prochaine question.
 
 Rire
@@ -164,6 +168,8 @@ Mais courir, non !
 
 Donc, vous...
 
+<i>...</i>
+
 Bruit de travaux
 
 -Ça devient difficile, là, non ?
@@ -172,17 +178,31 @@ Bruit de travaux
 
 -On va devoir arrêter, Zoé.
 
+<i>...
+
+...</i>
+
 Je viens bientôt à Grenoble.
 
 Je vous appelle, d'accord ?
 
 -OK.
 
+<i>...
+
+...</i>
+
 -Vraiment désolée.
+
+<i>...
+
+...</i>
 
 -OK, à bientôt.
 
 -Au revoir.
+
+.À bientôt.
 
 -Oui, sans faute.
 
@@ -216,13 +236,23 @@ Aboiements
 
 Papa...
 
+<i>...</i>
+
 Maman ! Maman !
 
 Maman !
 
+<i>...</i>
+
 Maman !
 
 Maman !
+
+<i>...</i>
+
+<i>...
+
+...</i>
 
 -Oui...
 
@@ -246,6 +276,8 @@ Claquement de portière
 
 Brouhaha
 
+<i>...</i>
+
 -C'est pour signaler la mort d'un homme de 30-40 ans.
 
 Samuel Maleski.
@@ -253,6 +285,8 @@ Samuel Maleski.
 Retrouvé décédé au pied de son chalet.
 
 Brouhaha
+
+<i>...</i>
 
 -Oui, c'est mon fils.
 
@@ -303,6 +337,20 @@ Et cause médico-légale : accidentelle et/ou intervention d'un tiers.
 Les analyses toxicologiques sont nécessaires à la manifestation de la vérité, point.
 
 Musique au piano
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
+
+...
 
 -Merci d'être venu.
 
@@ -452,7 +500,9 @@ Est-ce que je t'explique des choses ?
 
 C'est là qu'on mange.
 
-Rire il travaillait en haut ?
+Rire
+
+<i>-Donc...</i> il travaillait en haut ?
 
 -Oui, il isolait les combles.
 
@@ -520,11 +570,15 @@ Surtout quand il travaillait.
 
 Sanglots
 
+<i>...</i>
+
 Chouchou...
 
 Viens te laver et t'habiller.
 
 Il fait jour, allez.
+
+<i>...</i>
 
 Mon chou, je sais que c'est dur.
 
@@ -536,9 +590,15 @@ Pas à l'approche
 
 Mais on doit essayer de faire les choses comme avant, car...
 
+<i>...
+
+...</i>
+
 Monica est là.
 
 Elle t'a fait du tiramisu.
+
+<i>...</i>
 
 Tu ne peux pas passer tes journées enfermé.
 
@@ -553,6 +613,12 @@ Sanglots
 -Descends d'abord avec nous et je te laisserai dormir.
 
 Sanglots
+
+<i>...</i>
+
+<i>...</i>
+
+<i>...</i>
 
 -Je comprends pas...
 
@@ -590,6 +656,8 @@ On va parler avec Monica.
 
 Sanglots
 
+<i>...</i>
+
 Qu'est-ce que je peux faire ?
 
 -Rien, ça va.
@@ -597,6 +665,8 @@ Qu'est-ce que je peux faire ?
 -OK.
 
 Oh...
+
+<i>...</i>
 
 -Même si tu n'y crois pas, ça peut lui faire du bien.
 
@@ -762,6 +832,8 @@ Moi, j'y crois pas.
 
 -J'ai besoin d'une clope.
 
+<i>...</i>
+
 Vincent... il faut que je te dise quelque chose.
 
 Il y a six mois environ, je me demande si...
@@ -786,13 +858,23 @@ Il y avait des points blancs dans le vomi, et je me rappelle m'être demandé si
 
 -Non.
 
+<i>*-OK. Je te rappelle.</i>
+
 -D'accord.
 
 -Salut.
 
 Musique classique
 
+<i>...</i>
+
 Le son de la vidéo est coupé.
+
+<i>...</i>
+
+<i>...</i>
+
+<i>...</i>
 
 -il n'y a pas trop de lumière ?
 
@@ -882,19 +964,31 @@ Le français, c'est plus simple pour tout le monde.
 
 -Hélène, on peut lancer la musique !
 
+<i>...</i>
+
 -Ça s'est bien passé ?
+
+<i>...</i>
 
 -Oui, rien de spécial.
 
 -Ça va être quoi, la suite de l'après-midi ?
 
+<i>...</i>
+
 -Je sais pas, je suis fatiguée.
+
+<i>...</i>
 
 Je dois travailler et me reposer.
 
 -Tu me demandes pas ce que je vais faire ?
 
+<i>...</i>
+
 -Tu vas continuer au grenier, non ?
+
+<i>...</i>
 
 -OK, vous coupez.
 
@@ -934,11 +1028,17 @@ Vous lancez la musique ?
 
 -On remet la musique.
 
+<i>...</i>
+
 -Ça s'est bien passé ?
+
+<i>...</i>
 
 -Rien de spécial.
 
 -Ça va être quoi, la suite de l'après-midi ?
+
+<i>...</i>
 
 -Je dois travailler et me reposer.
 
@@ -946,21 +1046,41 @@ Vous lancez la musique ?
 
 -Allez-y, vraiment plus fort.
 
+<i>...</i>
+
 -Ça s'est bien passé ?
+
+<i>...</i>
 
 -Oui, rien de spécial.
 
--Ça va être quoi, la suite de l'après-midi ?
+<i>...</i>
+
+-Ça va être quoi,
+
+<i>...</i> la suite de l'après-midi ?
+
+<i>...</i>
 
 -Je dois travailler et me reposer.
 
--Moi, tu me demandes pas ce que je vais faire ?
+<i>...</i>
+
+-Moi, tu me demandes pas
+
+<i>...</i> ce que je vais faire ?
+
+<i>...</i>
 
 -Tu vas continuer au grenier, non ?
+
+<i>...</i>
 
 -On coupe !
 
 -Là on entend. OK, voilà.
+
+.À ce niveau.là, c'est ridicule.
 
 -J'ai pas besoin de vos commentaires.
 
@@ -982,6 +1102,8 @@ Avec les voix calmes, comme au début.
 
 -On peut faire ça, oui.
 
+<i>...</i>
+
 -Salut.
 
 Ça s'est bien passé ?
@@ -989,6 +1111,8 @@ Avec les voix calmes, comme au début.
 -Oui, rien de spécial.
 
 -Ça va être quoi, la fin de l'après-midi ?
+
+<i>...</i>
 
 -Je sais pas, je suis fatiguée.
 
@@ -998,7 +1122,11 @@ Faut que je travaille un peu, que je me repose.
 
 -J'imagine que tu vas continuer au grenier.
 
+<i>...</i>
+
 -Je me suis trompé.
+
+<i>...</i>
 
 -Coupez.
 
@@ -1020,7 +1148,17 @@ Bon.
 
 Musique classique
 
+<i>...</i>
+
+<i>...</i>
+
+<i>...</i>
+
+<i>...</i>
+
 Musique mélancolique
+
+<i>...</i>
 
 -C'était dur, cet après-midi, hein ?
 
@@ -1160,7 +1298,25 @@ Par conséquent, un contrôle judiciaire n'est pas envisageable et je vous deman
 
 -Merci. Me Boudaoud, vous avez la parole.
 
--Mme la présidente, comment imaginer qu'elle va fuir alors qu'elle a la charge de son fils ? c'est impossible.</i> est dans tous les médias.</i> à l'âge de 4 ans</i> que sur le plan affectif.</i>
+-Mme la présidente, comment imaginer qu'elle va fuir alors qu'elle a la charge de son fils ?
+
+<i>C'est insensé.</i>
+
+<i>Avec un enfant malvoyant, c'est impossible.</i>
+
+<i>En plus, son visage est dans tous les médias.</i>
+
+<i>Séparer l'enfant de sa mère,</i>
+
+<i>c'est risquer le traumatisme de trop.</i>
+
+<i>Il a subi un accident à l'âge de 4 ans</i>
+
+<i>qui l'a rendu malvoyant.</i>
+
+<i>Cet enfant a été fragilisé</i>
+
+<i>tant sur le plan psychique que sur le plan affectif.</i>
 
 -Une réaction à la décision du juge ?
 
@@ -1178,9 +1334,15 @@ Brouhaha
 
 C'est un désaveu pour le juge Janvier.
 
-Il y a eu de vives réactions dans les couloirs du palais. de la juge des libertés.</i> avec un témoin essentiel.</i> de la suite de la procédure ?"</i>
+Il y a eu de vives réactions dans les couloirs du palais.
+
+<i>C'est un choix dangereux de la juge des libertés.</i>
+
+<i>L'accusée sera réunie avec un témoin essentiel.</i> de la suite de la procédure ?"</i>
 
 Ronflement du moteur
+
+<i>...</i>
 
 -Comment tu as pu me cacher ça ?
 
@@ -1338,6 +1500,10 @@ Tu as dit quoi ?
 
 Cloches de l'église
 
+<i>...</i>
+
+<i>...</i>
+
 Fracas
 
 -<i>il était...</i> une des seules personnes que j'ai connues...
@@ -1466,9 +1632,21 @@ Je dois...
 
 Musique classique
 
-Mais enfin, évidemment.</i> je travaille</i> ici <i>toute la journée.</i> vous m'intéressez.</i> que j'aime le plus.</i> comme une drogue.</i>
+<i>...</i>
 
-C'est la prochaine question.</i> on aurait dû faire ça à Grenoble.</i>
+Mais enfin, évidemment.</i>
+
+<i>*Je ne</i> vois <i>personne, je travaille</i> ici <i>toute la journée.</i> vous m'intéressez.</i> que j'aime le plus.</i> comme une drogue.</i>
+
+<i>*Rire</i>
+
+C'est la prochaine question.</i>
+
+<i>*Rire</i>
+
+<i>...</i> on aurait dû faire ça à Grenoble.</i>
+
+<i>*La musique s'arrête.</i>
 
 -Bon.
 
@@ -1748,7 +1926,11 @@ Donc, tout allait bien.
 
 J'ai fini.
 
--Pas de question. ce que tu nous as dit.</i> qui t'a vu t'éloigner de la maison,</i> qui a parlé avec ton père</i>
+-Pas de question. ce que tu nous as dit.</i>
+
+<i>*Ça colle ni avec Zoé Solidor, qui t'a vu t'éloigner de la maison,</i> qui a parlé avec ton père</i>
+
+<i>*après qu'elle soit partie.</i>
 
 -Bon !
 
@@ -1904,7 +2086,11 @@ Voilà.
 
 Comme on le voit sur cette reconstitution avec un mannequin, un tel choc provoque un retournement brutal du corps.
 
-C'est au moment de ce retournement, ou de cette vrille, une fraction de seconde après le choc, que ces trois gouttes de sang, là, peuvent être projetées qui s'impose est que M. Maleski est tombé de la fenêtre du 3e étage.
+C'est au moment de ce retournement, ou de cette vrille, une fraction de seconde après le choc, que ces trois gouttes de sang, là, peuvent être projetées
+
+<i>sur cette surface.</i>
+
+<i>La thèse</i> qui s'impose est que M. Maleski est tombé de la fenêtre du 3e étage.
 
 C'est la seule façon, selon moi, d'expliquer le rebond sur le toit et une telle blessure au crâne.
 
@@ -2022,7 +2208,13 @@ Il avait vomi, et dans le vomi, j'ai vu de l'aspirine.
 
 Les cachets étaient presque fondus.
 
-Euh... ce que c'était.</i> dans la poubelle de la cuisine.</i>
+Euh...
+
+<i>Au début, j'ai pas compris ce que c'était.</i>
+
+<i>Plus tard, j'ai trouvé les...</i>
+
+<i>les plaquettes vides dans la poubelle de la cuisine.</i>
 
 J'ai tout nettoyé.
 
@@ -2390,6 +2582,8 @@ Brouhaha
 
 Toux
 
+<i>...</i>
+
 Sonnerie
 
 -La cour.
@@ -2400,7 +2594,11 @@ On va commencer par auditionner
 
 M. le Directeur d'enquête...
 
+<i>...</i>
+
 Brouhaha
+
+<i>...</i>
 
 -Vous pouvez vous asseoir.
 
@@ -2412,7 +2610,15 @@ Et M. L'huissier, après, vous pourrez aussi donner la retranscription de l'enre
 
 Voilà...
 
-Mme la greffière... ensemble.</i> quand tu t'absentes.</i> où est le problème ?</i> et on n'a pas les moyens.</i>
+Mme la greffière...
+
+<i>*Organise-toi autrement.</i>
+
+<i>*On doit planifier les choses ensemble.</i>
+
+<i>*Je vais pas laisser Daniel seul quand tu t'absentes.</i> où est le problème ?</i>
+
+<i>*Il faudrait la payer, et on n'a pas les moyens.</i>
 
 Pas juste quelques heures.
 
@@ -2772,9 +2978,39 @@ Voilà la vérité.
 
 Tu es intelligent, tu sais que j'ai raison.
 
-Arrête !</i> que tu es trop dure.</i> de ta culpabilité !</i>
+Arrête !</i>
+
+<i>*Même Daniel le dit, avec ses mots.</i> que tu es trop dure.</i>
+
+<i>*Il sent que tu culpabilises</i>
+
+<i>et il veut te rassurer,</i>
+
+<i>*tu le vois pas ?</i>
+
+<i>*Tu n'es jamais sorti de ta culpabilité !</i>
 
 Tu n'as aucune pitié.</i> ta putain de froideur !</i>
+
+<i>*Bris de verre</i>
+
+<i>*Coups
+
+<i>...</i>
+
+<i>*Cris
+
+<i>*Cris
+
+<i>*Il crie.</i>
+
+<i>*Coups
+
+<i>*Sanglots</i>
+
+<i>*Coups</i>
+
+<i>*Respiration difficile</i>
 
 -Bon.
 
@@ -3426,9 +3662,15 @@ La séance est levée.
 
 Brouhaha
 
+<i>...</i>
+
 Ruissellement de la douche
 
+<i>...</i>
+
 Crépitements du feu de cheminée
+
+<i>...</i>
 
 -Mets-toi près du feu, ça te réchauffera.
 
@@ -3510,6 +3752,8 @@ Je vais prendre mes affaires.
 
 Ronflement du moteur
 
+<i>...</i>
+
 Quelqu'un a dit : l'argent ne rend pas heureux, mais c'est quand même mieux de pleurer en voiture que dans le métro.
 
 Rires
@@ -3524,11 +3768,19 @@ Pardon !
 
 Sanglots
 
+<i>...</i>
+
 -Vas-y.
 
 Vas-y, mange.
 
 Ronflements du chien
+
+<i>...</i>
+
+<i>...</i>
+
+<i>...</i>
 
 Respiration difficile
 
@@ -3537,6 +3789,8 @@ Snoop...
 Snoop !
 
 Snoop !
+
+<i>...</i>
 
 Snoop...
 
@@ -3596,6 +3850,8 @@ Sanglots
 
 Eau qui coule
 
+<i>...</i>
+
 -Regarde !
 
 Il bouge plus !
@@ -3628,6 +3884,8 @@ C'est bien. il se réveille.
 
 Le chien éructe.
 
+<i>...</i>
+
 Voilà, voilà.
 
 Chut... Voilà.
@@ -3656,11 +3914,15 @@ Daniel sanglote.
 
 Tu m'expliques ?
 
+<i>...</i>
+
 -Tu sais, j'ai...
 
 J'avais jamais entendu parler... de la tentative de suicide de mon père.
 
 J'avais jamais entendu parler du... du psy, des médicaments... du vomi et de l'aspirine.
+
+<i>...</i>
 
 Quand ma mère en a parlé, ça m'a rappelé un truc qui a dû se passer à peu près au même moment.
 
@@ -3716,7 +3978,11 @@ Mon rôle est de te protéger contre toute influence...
 
 -Mais putain, aide-moi !
 
-Soupir il soupire.
+Soupir
+
+<i>...</i> il soupire.
+
+<i>...</i>
 
 -En fait... quand un élément nous manque pour juger, et que ce manque est insupportable, tout ce qu'on peut faire, c'est décider.
 
@@ -3742,11 +4008,57 @@ Je fais semblant d'être sûr ?
 
 C'est pas la même chose.
 
-Respiration forte c'est qu'on ignore qui est exalté.</i>
+Respiration forte
 
-Sandra Voyter joue de la confusion.</i> n'a pas supporté le 1er roman,</i> dégénère,</i> de sa colère.</i> dans une interview :</i> est de brouiller les pistes,</i> détruise le réel."</i> en ce moment,</i> que ça vient d'un de ses livres,</i> de Sandra Voyter,</i> qu'elle surjoue,</i> d'un de ses bouquins.</i> comment il est mort.</i> qui assassine son mari</i> qu'un prof qui se suicide !</i>
+<i>...</i>
+
+<i>...</i> c'est qu'on ignore qui est exalté.</i>
+
+Sandra Voyter joue de la confusion.</i>
+
+<i>*Elle va plus loin dans son 2e livre,</i>
+
+<i>*où elle raconte que son père n'a pas supporté le 1er roman,</i>
+
+<i>*chose qui a dû avoir lieu.</i>
+
+<i>*Elle imagine que la brouille dégénère,</i>
+
+<i>*qu'elle quitte son pays.</i>
+
+<i>*Elle a peur de son père, de sa colère.</i>
+
+<i>*Des visions d'horreur l'assaillent.</i>
+
+<i>*Il y a une déclaration troublante</i>
+
+<i>*que j'ai retrouvée dans une interview :</i> est de brouiller les pistes,</i> détruise le réel."</i>
+
+<i>*ce qui excite les gens en ce moment,</i>
+
+<i>*avec la mort de Samuel Maleski,</i> que ça vient d'un de ses livres,</i>
+
+<i>*que ça a déjà été écrit par elle.</i>
+
+<i>*Même l'incertitude sur cette mort,</i>
+
+<i>*est-il mort comme ci, comme ça,</i>
+
+<i>*la personnalité trouble de Sandra Voyter,</i>
+
+<i>*son côté dissimulatrice amorale qu'elle surjoue,</i>
+
+<i>*on dirait que ça vient d'un de ses bouquins.</i>
+
+<i>*Je crois que peu importe comment il est mort.</i> qui assassine son mari</i>
+
+<i>*est tellement plus intéressante qu'un prof qui se suicide !</i>
 
 Musique classique
+
+<i>...</i>
+
+<i>...</i>
 
 -Si j'imagine ma mère qui fait ça, je comprends pas.
 
@@ -3808,13 +4120,37 @@ Et à un moment, mon père s'est mis à parler de Snoop.
 
 Il m'a dit :
 
-Tu sais, ça. Faut que tu te prépares."</i> qu'il était pas vieux,</i>
+<i>"Tu< sais qu'il peut tomber malade ?</i>
+
+<i>"Même mourir.
+
+Tu sais, ça. Faut que tu te prépares."</i>
+
+<i>Je voulais pas qu'ii dise ça.</i>
+
+<i>Je voyais que Snoop allait mieux, qu'il était pas vieux,</i>
+
+<i>qu'il était jamais tombé malade.
 
 Je lui ai dit qu'il allait pas mourir.</i>
 
 Mais il a quand même continué.
 
-Il m'a dit : qu'il soit fatigué, Snoop. en âge de chien." sa vie ?</i> il doit comprendre ce que tu veux,</i> te mettre en danger.</i> de deviner tes besoins,</i>
+Il m'a dit : qu'il soit fatigué, Snoop. en âge de chien." sa vie ?</i>
+
+<i>"C'est pas juste un chien que t'as.</i>
+
+<i>"C'est un super chien.</i> il doit comprendre ce que tu veux,</i>
+
+<i>"tout ce qui peut te mettre en danger.</i>
+
+<i>"Il passe sa vie à essayer de deviner tes besoins,</i>
+
+<i>"Il est peut-être fatigué.</i>
+
+<i>"S'occuper toujours des autres...</i>
+
+<i>"Peut-être qu'un jour, il en pourra plus.</i>
 
 Et je me souviens qu'à la fin...
 
@@ -3834,6 +4170,8 @@ Je demande aux jurés de garder instamment à l'esprit que ce récit est extrêm
 
 Brouhaha
 
+<i>...</i>
+
 -Oui, Serge, nous sommes devant le tribunal de Grenoble.
 
 Le procès devait se terminer vendredi soir, mais le petit Daniel, le fils de Sandra Voyter, a tenu à témoigner ce matin encore.
@@ -3842,9 +4180,17 @@ Alors les jurés sont toujours...
 
 Musique au piano
 
--Daniel ! quel est votre sentiment,</i> trop de mots dans ce procès...</i> et de rentrer chez moi.</i>
+<i>...</i>
 
-Ils ont toujours cru en moi.</i> vous êtes soulagé par ce verdict ?</i> ce qu'elle a toujours été...</i>
+-Daniel ! quel est votre sentiment,</i>
+
+<i>*Je crois qu'il y a eu trop de mots dans ce procès...</i> et de rentrer chez moi.</i>
+
+<i>*Je remercie mes avocats.
+
+Ils ont toujours cru en moi.</i> vous êtes soulagé par ce verdict ?</i>
+
+<i>*qui a vu en Sandra Voyter ce qu'elle a toujours été...</i>
 
 Brouhaha
 
@@ -3852,7 +4198,17 @@ Brouhaha
 
 Brouhaha
 
--C'est fini, ça va. un nouveau roman ?</i> laissez-nous passer...</i>
+<i>...</i>
+
+-C'est fini, ça va.
+
+<i>*Brouhaha</i>
+
+<i>*Brouhaha un nouveau roman ?</i>
+
+<i>...</i> laissez-nous passer...</i>
+
+<i>...</i>
 
 -Un commentaire sur le verdict ?
 
@@ -3861,6 +4217,8 @@ Brouhaha
 Qu'allez-vous faire maintenant ?
 
 Brouhaha
+
+<i>...</i>
 
 -Oui, Marge, c'est Sandra.
 
@@ -4030,17 +4388,37 @@ Soupir mais il s'est endormi.)
 
 Rires discrets
 
+<i>...</i>
+
 Soupir
 
 -J'avais peur que tu rentres.
 
 -Moi aussi, j'avais peur de rentrer.
 
+<i>...</i>
+
 Soupir
+
+<i>...</i>
 
 Soupir
 
 Soupir
+
+<i>...</i>
 
 Snoop approche.
+
+<i>...</i>
+
+Musique au piano
+
+<i>...</i>
+
+<i>...</i>
+
+<i>...</i>
+
+<i>...</i>
 
