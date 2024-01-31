@@ -1,11 +1,15 @@
-source = open ("subtitles.srt", "r", encoding='UTF-8')
-subtitles = open("subtitles.txt", "w+", encoding='UTF-8')
+import sys
+import os
+from fpdf import FPDF
+
+pdf = FPDF()
+movie = sys.argv[1]
+
+source = open ((str(movie) + '.srt'), 'r', encoding='UTF-8')
+subtitles = open((str(movie) + '.txt'), 'w+', encoding='UTF-8')
 
 lines = source.readlines()
-count = 0
-
 for line in lines:
-    count += 1
     if line.strip().isdigit():
         subtitles.write('\n')
     elif line.startswith('-'):
@@ -16,8 +20,8 @@ for line in lines:
         continue
 
 subtitles.close()
-intermediate = open ("subtitles.txt", "r", encoding='UTF-8')
-formattedSubtitles = open("formattedSubtitles.txt", "w+", encoding='UTF-8')
+intermediate = open ((str(movie) + '.txt'), 'r', encoding='UTF-8')
+formattedSubtitles = open('formatted ' + str(movie) + '.txt', 'w+', encoding='UTF-8')
 sentence = ''
 
 newlines = intermediate.readlines()
@@ -37,3 +41,15 @@ for newline in newlines:
 
 intermediate.close()
 formattedSubtitles.close()
+
+pdf.add_page()
+pdf.add_font('BookAntiqua', '', 'BookAntiquaFont.ttf', uni=True)
+pdf.set_font('BookAntiqua', '', 12)
+pdf.set_margins(10, 10, 10)
+
+f = open('formatted ' + str(movie) + '.txt', 'r', encoding='UTF-8')
+for x in f:
+    pdf.multi_cell(200, 6, txt = x, align = 'L')
+
+pdf.output(str(movie) + '.pdf')
+os.remove(str(movie) + '.txt')
